@@ -133,17 +133,15 @@ http://localhost/coffestar_php_mysql/
 
 ## 📸 Vista Cliente
 
-<img width="100%" src="https://github.com/user-attachments/assets/45e24501-96ce-4797-a7d9-38e36c23a1a7">
 <img width="1549" height="801" alt="image" src="https://github.com/user-attachments/assets/27aa5925-9b91-47d0-9845-64d3635e18b6" />
 
-<img width="100%" src="https://github.com/user-attachments/assets/5707800c-f099-4401-89a3-46868d2ae561">
+<img width="1272" height="862" alt="image" src="https://github.com/user-attachments/assets/d7c0a93d-5e7a-4d52-a51a-d3e15aedc250" />
+
 
 ## 🛠️ Vista Administrador
+<img width="1518" height="829" alt="image" src="https://github.com/user-attachments/assets/17758789-ebc6-44cd-8484-aec9ddf8e3b2" />
+<img width="1500" height="689" alt="image" src="https://github.com/user-attachments/assets/bcd7f28a-f324-42f9-ae56-09ac7073c457" />
 
-<img width="100%" src="https://github.com/user-attachments/assets/c13b04f4-3ce3-4aa6-92fb-6b4ecb268463">
-```
-
----
 
 # 📄 Licencia
 

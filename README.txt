@@ -1,94 +1,52 @@
 # ☕ CoffeStar - Sistema de Gestión para Cafetería
 
-CoffeStar es una aplicación web desarrollada en PHP y MySQL que permite administrar pedidos, controlar estados de atención y gestionar operaciones básicas de una cafetería.
+Un sistema web para la gestión de pedidos de una cafetería, desarrollado con **PHP, MySQL, HTML, CSS y JavaScript**. Permite administrar pedidos, controlar estados de atención y gestionar operaciones de caja.
 
-## 🚀 Características
+![Estado](https://img.shields.io/badge/Estado-Completado-brightgreen)
+![PHP](https://img.shields.io/badge/PHP-8.x-blue)
+![MySQL](https://img.shields.io/badge/MySQL-Database-orange)
+![XAMPP](https://img.shields.io/badge/XAMPP-Local-red)
 
-* Gestión de pedidos de clientes.
-* Panel de administración.
-* Panel para cajero.
-* Actualización de estados de pedidos.
-* Generación de facturas.
-* Seguimiento del estado de los pedidos.
-* Interfaz web sencilla y fácil de usar.
+---
 
-## 🛠 Tecnologías Utilizadas
+# 🚀 Características Principales
 
-* PHP
-* MySQL
-* HTML5
-* CSS3
-* JavaScript
-* XAMPP
+## 👤 Para Clientes
 
-## 📋 Requisitos
+* Realizar pedidos desde la plataforma.
+* Consultar el estado de los pedidos.
+* Navegación sencilla e intuitiva.
+* Confirmación de pedidos.
 
-* XAMPP (Apache y MySQL)
-* PHP 8.x o superior
-* Navegador web moderno
+## 💰 Para Cajeros
 
-## ⚙️ Instalación
+* Visualizar pedidos pendientes.
+* Actualizar estados de atención.
+* Emitir facturas.
+* Control de caja.
 
-### 1. Clonar o descargar el proyecto
+## 🛠️ Para Administradores
 
-```bash
-git clone https://github.com/LY-LOPEZ/Coffeestar.git
-```
+* Supervisar operaciones del sistema.
+* Gestionar pedidos.
+* Monitorear el flujo de atención.
 
-### 2. Copiar el proyecto
+---
 
-Mover la carpeta del proyecto a:
+# 🖥️ Tecnologías Utilizadas
 
-```text
-C:\xampp\htdocs\
-```
+| Tecnología | Uso            |
+| ---------- | -------------- |
+| PHP        | Backend        |
+| MySQL      | Base de Datos  |
+| HTML5      | Estructura     |
+| CSS3       | Diseño         |
+| JavaScript | Interactividad |
+| XAMPP      | Servidor Local |
 
-### 3. Iniciar servicios
+---
 
-Abrir XAMPP y activar:
-
-* Apache
-* MySQL
-
-### 4. Crear la base de datos
-
-Ingresar a:
-
-```text
-http://localhost/phpmyadmin
-```
-
-Importar el archivo:
-
-```text
-database/coffestar.sql
-```
-
-### 5. Ejecutar la aplicación
-
-Abrir en el navegador:
-
-```text
-http://localhost/coffestar_php_mysql/
-```
-
-## 🔐 Credenciales de Acceso
-
-### Administrador
-
-| Campo      | Valor    |
-| ---------- | -------- |
-| Usuario    | admin    |
-| Contraseña | admin123 |
-
-### Cajero
-
-| Campo      | Valor   |
-| ---------- | ------- |
-| Usuario    | cajero  |
-| Contraseña | caja123 |
-
-## 📁 Estructura Principal
+# 📂 Estructura del Proyecto
 
 ```text
 coffestar_php_mysql/
@@ -108,11 +66,81 @@ coffestar_php_mysql/
 └── README.md
 ```
 
-## 👨‍💻 Autor
+---
 
-Desarrollado como proyecto académico de Economía y Sistemas de Información.
+# ⚙️ Instalación
 
-## 📄 Licencia
+### 1️⃣ Clonar el repositorio
 
-Este proyecto es de uso educativo y académico.
+```bash
+git clone https://github.com/LY-LOPEZ/Coffeestar.git
+```
 
+### 2️⃣ Copiar el proyecto
+
+Mover la carpeta a:
+
+```text
+C:\xampp\htdocs\
+```
+
+### 3️⃣ Iniciar XAMPP
+
+Activar:
+
+* Apache
+* MySQL
+
+### 4️⃣ Importar la Base de Datos
+
+Ingresar a:
+
+```text
+http://localhost/phpmyadmin
+```
+
+Importar:
+
+```text
+database/coffestar.sql
+```
+
+### 5️⃣ Ejecutar el sistema
+
+```text
+http://localhost/coffestar_php_mysql/
+```
+
+---
+
+# 🔑 Credenciales
+
+## Administrador
+
+| Usuario | Contraseña |
+| ------- | ---------- |
+| admin   | admin123   |
+
+## Cajero
+
+| Usuario | Contraseña |
+| ------- | ---------- |
+| cajero  | caja123    |
+
+---
+
+# 📸 Capturas
+
+Agrega aquí imágenes del sistema:
+
+```md
+![Inicio](imagenes/inicio.png)
+![Panel](imagenes/panel.png)
+![Pedidos](imagenes/pedidos.png)
+```
+
+---
+
+# 📄 Licencia
+
+Proyecto de uso académico y educativo.

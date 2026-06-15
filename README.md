@@ -131,9 +131,6 @@ http://localhost/coffestar_php_mysql/
 
 # 📸 Capturas
 
-Agrega aquí imágenes del sistema:
-
-
 ## 📸 Vista Cliente
 
 <img width="100%" src="https://github.com/user-attachments/assets/45e24501-96ce-4797-a7d9-38e36c23a1a7">

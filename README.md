@@ -134,6 +134,7 @@ http://localhost/coffestar_php_mysql/
 ## 📸 Vista Cliente
 
 <img width="100%" src="https://github.com/user-attachments/assets/45e24501-96ce-4797-a7d9-38e36c23a1a7">
+<img width="1549" height="801" alt="image" src="https://github.com/user-attachments/assets/27aa5925-9b91-47d0-9845-64d3635e18b6" />
 
 <img width="100%" src="https://github.com/user-attachments/assets/5707800c-f099-4401-89a3-46868d2ae561">
 

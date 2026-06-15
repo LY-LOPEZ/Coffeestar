@@ -1,4 +1,4 @@
-# ☕ CoffeStar - Sistema de Gestión para Cafetería
+# ☕ Cafeteria capuchino - Sistema de Gestión para Cafetería
 
 Un sistema web para la gestión de pedidos de una cafetería, desarrollado con **PHP, MySQL, HTML, CSS y JavaScript**. Permite administrar pedidos, controlar estados de atención y gestionar operaciones de caja.
 

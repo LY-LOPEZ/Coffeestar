@@ -134,14 +134,15 @@ http://localhost/coffestar_php_mysql/
 Agrega aquí imágenes del sistema:
 
 ```md
-vista cliente:
-<img width="1624" height="883" alt="image" src="https://github.com/user-attachments/assets/45e24501-96ce-4797-a7d9-38e36c23a1a7" />
-<img width="1507" height="888" alt="image" src="https://github.com/user-attachments/assets/5707800c-f099-4401-89a3-46868d2ae561" />
-vista administrador:
-<img width="1563" height="889" alt="image" src="https://github.com/user-attachments/assets/c13b04f4-3ce3-4aa6-92fb-6b4ecb268463" />
+## 📸 Vista Cliente
 
-![Panel](imagenes/panel.png)
-![Pedidos](imagenes/pedidos.png)
+<img width="100%" src="https://github.com/user-attachments/assets/45e24501-96ce-4797-a7d9-38e36c23a1a7">
+
+<img width="100%" src="https://github.com/user-attachments/assets/5707800c-f099-4401-89a3-46868d2ae561">
+
+## 🛠️ Vista Administrador
+
+<img width="100%" src="https://github.com/user-attachments/assets/c13b04f4-3ce3-4aa6-92fb-6b4ecb268463">
 ```
 
 ---
